@@ -1,4 +1,4 @@
-# 2026studentshow
+# 2026 Student Show
 WIP repo for the NMA 2026 Student Show
 
 ## Coming Soon Page
