@@ -15,4 +15,4 @@ Various versions of the website are documented below.
 - [Latest NMA Student Show Website on Webflow](https://2026-student-show-a3c33d.webflow.io/)
 
 ### NMA Student Show Website Manually Saved/Exported from Webflow
-- [NMA Student Show Website - Manually Saved - v1](https://newmediaarts.github.io/2026studentshow/new2026studentshow-v1/index.html)
+- [NMA Student Show Website - Manually Saved - v1](https://newmediaarts.github.io/2026studentshow/2026studentshow-v1/index.html)
